@@ -1,6 +1,6 @@
 # 💧 Sistema de Classificação de Consumo de Água
 
-> Um script em Python simples e eficiente para classificar o consumo de água de acordo com o tipo de imóvel (Casa, Apartamento ou Comercial) e a faixa de consumo em metros cúbicos ($m^3$).
+> Um script em Python simples e eficiente para classificar o consumo de água de acordo com o tipo de imóvel (Casa, Apartamento ou Comercial) e a faixa de consumo em metros cúbicos
 
 ---
 
